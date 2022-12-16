@@ -1,0 +1,68 @@
+<div style="width:70%; margin:auto; text-align: center;">
+
+	<div style="margin:60px auto;">
+		<h1 style="margin: 0;">RECIPE</h1>
+		<h2 style="margin-top: 0;">端出好料理</h2>
+	</div>
+  
+	<div class="grid--full medium-down--hide">
+		<div class="grid__item" style="font-size: .85em;">
+			<ul class="site-nav" id="AccessibleNav" style="margin-left: 0;">
+				<li>
+					<a 
+          class="site-nav__link" 
+          href="https://www.osmanthus-shop.com/pages/端出好料理" 
+          style="color:#ffffff; background:rgb(92, 2, 43); padding:8px 15px; border-radius:99em; line-height: 1em;">
+          豆腐乳料理
+          </a>
+				</li>
+				<li>
+					<a 
+          class="site-nav__link" 
+          href="https://www.osmanthus-shop.com/pages/端出好料理-桂花釀" 
+          style="color:rgb(92, 2, 43); border:1.5px solid rgb(92, 2, 43); padding:6.5px 13.5px; border-radius:99em; line-height: 1em;">
+          桂花釀料理
+          </a>
+				</li>
+			</ul>
+		</div>
+	</div>
+  
+	<div style="background-color:#eee; border-radius:20px; position:relative; margin:40px 0px; padding:20px 10px 20px 10px;">
+		<!--一個影片～-->
+		<div style="display:flex; padding:15px 0;">
+			<div style="width:45%; padding:0px 15px; position:relative;">
+				<iframe src="https://www.youtube.com/embed/safljFiJiw8" title="YouTube video player" frameborder="0" allowfullscreen=""></iframe>
+			</div>
+			<div style="width:50%; padding:0px 15px; position:relative; text-align:left;">
+				123123123
+			</div>
+		</div>
+		<!--一個影片～-->
+		<div style="display:flex; padding:15px 0;">
+			<div style="width:45%; padding:0px 15px; position:relative;">
+				<iframe src="https://www.youtube.com/embed/safljFiJiw8" title="YouTube video player" frameborder="0" allowfullscreen=""></iframe>
+			</div>
+			<div style="width:50%; padding:0px 15px; position:relative; text-align:left;">
+				123123123
+			</div>
+		</div>
+		<!--一個影片～-->
+		<div style="display:flex; padding:15px 0;">
+			<div style="width:45%; padding:0px 15px; position:relative;">
+				<iframe src="https://www.youtube.com/embed/safljFiJiw8" title="YouTube video player" frameborder="0" allowfullscreen=""></iframe>
+			</div>
+			<div style="width:50%; padding:0px 15px; position:relative; text-align:left;">
+				123123123
+			</div>
+		</div>
+	</div>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+</div>
