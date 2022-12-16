@@ -5,22 +5,20 @@
 		<h2 style="margin-top: 0;">端出好料理</h2>
 	</div>
   
-	<div class="grid--full medium-down--hide">
-		<div class="grid__item" style="font-size: .85em;">
-			<ul class="site-nav" id="AccessibleNav" style="margin-left: 0;">
-				<li>
-					<a 
-          class="site-nav__link" 
-          href="https://www.osmanthus-shop.com/pages/端出好料理" 
-          style="color:#ffffff; background:rgb(92, 2, 43); padding:8px 15px; border-radius:99em; line-height: 1em;">
-          豆腐乳料理
+	<div>
+		<div style="font-size: .85em;">
+			<ul style="margin-left: 0; list-style:none;">
+				<li style="position:relative; display:inline-block;">
+					<a
+             href="https://www.osmanthus-shop.com/pages/端出好料理" 
+             style="color:#ffffff; background:rgb(92, 2, 43); padding:8px 15px; border-radius:99em; line-height: 1em; text-decoration: none; white-space: nowrap;">
+            豆腐乳料理
           </a>
 				</li>
-				<li>
+				<li style="position:relative; display:inline-block;">
 					<a 
-          class="site-nav__link" 
           href="https://www.osmanthus-shop.com/pages/端出好料理-桂花釀" 
-          style="color:rgb(92, 2, 43); border:1.5px solid rgb(92, 2, 43); padding:6.5px 13.5px; border-radius:99em; line-height: 1em;">
+          style="color:rgb(92, 2, 43); border:1.5px solid rgb(92, 2, 43); padding:6.5px 13.5px; border-radius:99em; line-height: 1em; text-decoration: none; white-space: nowrap;">
           桂花釀料理
           </a>
 				</li>
